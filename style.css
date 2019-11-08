@@ -1,0 +1,11 @@
+.sslDiv {
+    width: 90%;
+    margin: auto;
+    padding: 2%;
+}
+
+.button_ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
